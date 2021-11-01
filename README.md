@@ -1,11 +1,8 @@
-# PHP Crash Course 2020
+# PHP Crash Learning 
 
-## Initial version - You can download the code and follow the video tutorial.
+This repo contains all the basic things about PHP using a video from Traversy Media.
 
-If you are interested to see final files switch to [final-version](https://github.com/thecodeholic/php-crash-course-2020/tree/final-version) branch. 
-
-The video covers all the basic things about PHP. 
-
+Done
  - Comments
  - Variables
  - Numbers
@@ -17,10 +14,12 @@ The video covers all the basic things about PHP.
  - Dates
  - Including PHP files
  - Working with File System
- - Object Oriented PHP (OOP)
+ - Object-Oriented PHP (OOP)
  - CURL
+
+Yet to be completed:
  - Product CRUD
     - Working with forms
     - File uploading and file validation
-    - Working with mysql
+    - Working with MySQL
  - Composer and autoloading
