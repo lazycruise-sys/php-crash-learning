@@ -1,6 +1,8 @@
 # PHP Crash Learning 
 
-This repo contains all the basic things about PHP using a video from Traversy Media.
+This repo contains all the basic things about PHP using a [video](https://www.youtube.com/watch?v=2eebptXfEvw) from Traversy Media.
+
+Once completed, two projects - MVC and API - would be developed.
 
 Done
  - Comments
